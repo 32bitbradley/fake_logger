@@ -1,0 +1,1 @@
+R_IPV4 - - [T_DAY/T_MONTH_WORD/T_YEAR:T_HOUR:T_MIN:T_SEC +0000] "GET /favicon.ico HTTP/1.1" 404 555 "https://example.example.com/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" "R_IPV4"
