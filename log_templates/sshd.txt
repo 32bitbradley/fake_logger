@@ -1,0 +1,3 @@
+T_MONTH_WORD T_DAY T_HOUR:T_MIN:T_SEC admin-01 sshd[14257]: Failed password for root from R_IPV4 port 59819 ssh2
+T_MONTH_WORD T_DAY T_HOUR:T_MIN:T_SEC admin-01 sshd[14257]: Failed password for toor from R_IPV4 port 59819 ssh2
+T_MONTH_WORD T_DAY T_HOUR:T_MIN:T_SEC admin-01 sshd[14257]: Failed password for nginx from R_IPV4 port 59819 ssh2
